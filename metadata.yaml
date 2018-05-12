@@ -1,0 +1,29 @@
+_repo: Animal-Analogues--Verses-and-Illustrations_43013
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43013-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wood, Robert Williams
+    alias: Wood, R. W. (Robert Williams)
+    birthdate: 1868
+    deathdate: 1955
+    gutenberg_agent_id: '668'
+    url: http://www.gutenberg.org/2009/agents/668
+    wikipedia: http://en.wikipedia.org/wiki/Robert_W._Wood
+description: ''
+gutenberg_issued: '2013-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43013'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Nature study -- Humor'
+- !lcsh 'American wit and humor'
+title: 'Animal Analogues: Verses and Illustrations'
+url: http://www.gutenberg.org/ebooks/43013
