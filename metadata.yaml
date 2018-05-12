@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/668
     wikipedia: http://en.wikipedia.org/wiki/Robert_W._Wood
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43013#Animal-Analogues--Verses-and-Illustrations
 gutenberg_issued: '2013-06-22'
 gutenberg_type: Text
 identifiers:
